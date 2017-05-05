@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="bgColor" format="reference|color"/>
+    <attr name="ringColor" format="reference|color"/>
+    <attr name="centerPointColor" format="reference|color"/>
+    <attr name="textColor" format="reference|color"/>
+    <attr name="hourColor" format="reference|color"/>
+    <attr name="minuteColor" format="reference|color"/>
+    <attr name="secondColor" format="reference|color"/>
+    <attr name="longScaleColor" format="reference|color"/>
+    <attr name="shortScaleColor" format="reference|color"/>
+
+    <declare-styleable name="ClockView">
+        <attr name="bgColor"/>
+        <attr name="ringColor"/>
+        <attr name="centerPointColor"/>
+        <attr name="textColor"/>
+        <attr name="hourColor"/>
+        <attr name="minuteColor"/>
+        <attr name="secondColor"/>
+        <attr name="longScaleColor"/>
+        <attr name="shortScaleColor"/>
+    </declare-styleable>
+    
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="lixiaoqian.bwie.com.lixiaoqian20170504.MainActivity">
+
+    <xlistview.bawei.com.xlistviewlibrary.XListView
+        android:id="@+id/xlv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </xlistview.bawei.com.xlistviewlibrary.XListView>
+
+</RelativeLayout>
